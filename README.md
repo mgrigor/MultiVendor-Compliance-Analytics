@@ -119,6 +119,7 @@ The platform generates:
 ### Example Exception Report
 
 ![Samsung ENB Exception Report](Samsung_ENB_Exception_Report.png)
+
 Exception values are automatically highlighted and categorized to simplify engineering review and remediation activities.
 
 ---
