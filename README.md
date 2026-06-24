@@ -128,4 +128,4 @@ Exception values are automatically highlighted and categorized to simplify engin
 
 Marthony Rigor
 
-M.S. Data Science | Telecom Engineering | Data Analytics & Automation
+M.S. Data Science | Telecommunications Engineering | Data Analytics & Automation
