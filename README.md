@@ -116,9 +116,7 @@ The platform generates:
 * CELL Part 2 Exception Reports
 * Consolidated Multi-Sheet Audit Workbooks
 * Compliance KPI Summaries
-### Example Exception Report
 
-![Samsung ENB Exception Report](Samsung_ENB_Exception_Report.png)
 
 ### Final Multi-Sheet Compliance Workbook
 
