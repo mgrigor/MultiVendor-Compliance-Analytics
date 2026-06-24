@@ -84,7 +84,7 @@ Compliance KPI Generation
 * Supported Samsung, Ericsson, and Nokia LTE networks
 * Audited 125,421+ network elements
 * Identified 163 non-compliant configurations
-* Achieved 99.87% compliance visibility
+* Achieved 99.87% configuration compliance rate
 * Reduced audit execution time from weeks to hours
 * Automated exception reporting and KPI generation
 
