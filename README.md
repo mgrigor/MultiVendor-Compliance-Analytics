@@ -120,10 +120,6 @@ The platform generates:
 
 ![Samsung ENB Exception Report](Samsung_ENB_Exception_Report.png)
 
-### Final Multi-Sheet Compliance Workbook
-
-![Final Workbook](Samsung_Final_Compliance_Workbook.png)
-
 Exception values are automatically highlighted and categorized to simplify engineering review and remediation activities.
 
 ---
