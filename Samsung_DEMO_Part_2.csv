@@ -1,0 +1,16 @@
+date,subMarket,market,enbid,enbname,cellId,sector,carrier,paramId1,barring-status-type,ac-barring-mo-data-usage
+2026-02-08T00:00:00.000Z,Demo Market-DEMO,99,99001,SAMS_DEMO_SITE_A,1,1,1,ac-barring-param-for-emtc[barring-status-type=cpu-normal],cpu-normal,disable
+2026-02-08T00:00:00.000Z,Demo Market-DEMO,99,99001,SAMS_DEMO_SITE_A,1,1,1,ac-barring-param-for-emtc[barring-status-type=cpu-minor],cpu-minor,disable
+2026-02-08T00:00:00.000Z,Demo Market-DEMO,99,99001,SAMS_DEMO_SITE_A,1,1,1,ac-barring-param-for-emtc[barring-status-type=cpu-major],cpu-major,disable
+2026-02-08T00:00:00.000Z,Demo Market-DEMO,99,99001,SAMS_DEMO_SITE_A,1,1,1,ac-barring-param-for-emtc[barring-status-type=cpu-critical],cpu-critical,disable
+2026-02-08T00:00:00.000Z,Demo Market-DEMO,99,99001,SAMS_DEMO_SITE_A,1,1,1,ac-barring-param-for-emtc[barring-status-type=bar-manual],bar-manual,disable
+2026-02-08T00:00:00.000Z,Demo Market-DEMO,99,99002,SAMS_DEMO_SITE_B,1,1,1,ac-barring-param-for-emtc[barring-status-type=cpu-normal],cpu-normal,disable
+2026-02-08T00:00:00.000Z,Demo Market-DEMO,99,99002,SAMS_DEMO_SITE_B,1,1,1,ac-barring-param-for-emtc[barring-status-type=cpu-minor],cpu-minor,enable
+2026-02-08T00:00:00.000Z,Demo Market-DEMO,99,99002,SAMS_DEMO_SITE_B,1,1,1,ac-barring-param-for-emtc[barring-status-type=cpu-major],cpu-major,disable
+2026-02-08T00:00:00.000Z,Demo Market-DEMO,99,99002,SAMS_DEMO_SITE_B,1,1,1,ac-barring-param-for-emtc[barring-status-type=cpu-critical],cpu-critical,disable
+2026-02-08T00:00:00.000Z,Demo Market-DEMO,99,99002,SAMS_DEMO_SITE_B,1,1,1,ac-barring-param-for-emtc[barring-status-type=bar-manual],bar-manual,disable
+2026-02-08T00:00:00.000Z,Demo Market-DEMO,99,99003,SAMS_DEMO_SITE_C,1,1,1,ac-barring-param-for-emtc[barring-status-type=cpu-normal],cpu-normal,disable
+2026-02-08T00:00:00.000Z,Demo Market-DEMO,99,99003,SAMS_DEMO_SITE_C,1,1,1,ac-barring-param-for-emtc[barring-status-type=cpu-minor],cpu-minor,disable
+2026-02-08T00:00:00.000Z,Demo Market-DEMO,99,99003,SAMS_DEMO_SITE_C,1,1,1,ac-barring-param-for-emtc[barring-status-type=cpu-major],cpu-major,disable
+2026-02-08T00:00:00.000Z,Demo Market-DEMO,99,99003,SAMS_DEMO_SITE_C,1,1,1,ac-barring-param-for-emtc[barring-status-type=cpu-critical],cpu-critical,disable
+2026-02-08T00:00:00.000Z,Demo Market-DEMO,99,99003,SAMS_DEMO_SITE_C,1,1,1,ac-barring-param-for-emtc[barring-status-type=bar-manual],bar-manual,disable

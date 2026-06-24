@@ -1,0 +1,4 @@
+date,subMarket,market,enbid,enbname,paramId1,max-barring-factor,min-barring-factor,max-barring-time,min-barring-time,step-barring-factor-increase,step-barring-factor-decrease,step-barring-time-increase,step-barring-time-decrease,barring-special-ac11-enabled,barring-special-ac12-enabled,barring-special-ac13-enabled,barring-special-ac14-enabled,barring-special-ac15-enabled
+2026-02-08T00:00:00.000Z,Demo Market-DEMO,99,99001,SAMS_DEMO_SITE_A,enb-ac-barring-rrc-connection,p00,p95,s32,s4,2,1,2,1,TRUE,TRUE,TRUE,FALSE,FALSE
+2026-02-08T00:00:00.000Z,Demo Market-DEMO,99,99002,SAMS_DEMO_SITE_B,enb-ac-barring-rrc-connection,p00,p95,s320,s4,2,1,2,1,TRUE,TRUE,TRUE,FALSE,FALSE
+2026-02-08T00:00:00.000Z,Demo Market-DEMO,99,99003,SAMS_DEMO_SITE_C,enb-ac-barring-rrc-connection,p00,p95,s32,s4,2,1,2,1,TRUE,TRUE,TRUE,FALSE,FALSE

@@ -1,0 +1,4 @@
+date,subMarket,market,enbid,enbname,cellId,sector,carrier,paramId1,call-count-cac-enable,max-call-count,call-cac-threshold-for-emergency,call-cac-threshold-for-handover,call-cac-threshold-for-mo-sig,call-cac-threshold-for-mo-voice-call,call-cac-threshold-for-mt-access,drb-count-cac-enable
+2026-02-08T00:00:00.000Z,Demo Market-DEMO,99,99001,SAMS_DEMO_SITE_A,1,1,1,cell-cac-info-func,enable,1000,100,100,95,100,95,enable
+2026-02-08T00:00:00.000Z,Demo Market-DEMO,99,99002,SAMS_DEMO_SITE_B,1,1,1,cell-cac-info-func,enable,1000,100,1000,95,100,95,enable
+2026-02-08T00:00:00.000Z,Demo Market-DEMO,99,99003,SAMS_DEMO_SITE_C,1,1,1,cell-cac-info-func,enable,1000,100,100,95,100,95,enable
